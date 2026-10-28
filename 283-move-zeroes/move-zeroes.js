@@ -12,5 +12,5 @@ var moveZeroes = function(nums) {
         i++
     }
   }
-  console.log(nums)
+  return nums
 };
